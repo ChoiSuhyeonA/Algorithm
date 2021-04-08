@@ -11,6 +11,7 @@ public class Insertion {
 				j--;
 			}
 			hits[j + 1] = (Movie) x;
+			
 		}
 	}
 }
