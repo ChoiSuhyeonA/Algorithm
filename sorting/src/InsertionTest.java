@@ -1,13 +1,12 @@
-
 public class InsertionTest {
 
 	public static void main(String[] args) {
 		Movie[] hits = new Movie[5];
-		hits[0] = new Movie("ëª…ëŸ‰",2014) ; 
-		hits[1] = new Movie("ê·¹í•œì§ì—…",2019);
-		hits[2] = new Movie("ê¸°ìƒì¶©",2019) ; 
-		hits[3] = new Movie("êµ­ì œì‹œì¥",2014) ; 
-		hits[4] = new Movie("ë¶€ì‚°í–‰",2016) ;
+		hits[0] = new Movie("¸í·®",2014) ; 
+		hits[1] = new Movie("±ØÇÑÁ÷¾÷",2019);
+		hits[2] = new Movie("±â»ıÃæ",2019) ; 
+		hits[3] = new Movie("±¹Á¦½ÃÀå",2014) ; 
+		hits[4] = new Movie("ºÎ»êÇà",2016) ;
 		
 //		Insertion.sort(hits, new Movie.YearOrder());
 		Insertion.sort(hits, new Movie.NameOrder());
