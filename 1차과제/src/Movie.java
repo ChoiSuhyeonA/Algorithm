@@ -33,5 +33,6 @@ public class Movie {
 
 	public String toString() {
 		return name + "(" + year + ")";
+	
 	}
 }
