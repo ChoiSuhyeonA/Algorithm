@@ -16,8 +16,8 @@
     <fullyQualifiedTypeName name="Carriers"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.nio.charset.StandardCharsets"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.classfile.ClassLoaderDataGraph.ClassAndLoaderVisitor"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
